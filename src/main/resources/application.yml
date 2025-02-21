@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: brewery-gateway
+  config:
+    import: "configserver:"
